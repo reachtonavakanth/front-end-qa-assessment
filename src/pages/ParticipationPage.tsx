@@ -78,7 +78,7 @@ const ParticipationPage = ({ active, setActive }: ParticipationPageProps) => {
         </Box>
         <Box textAlign="center" mt={['4.5vw', '4.5vw', '4.5vw', '4.5vw', '4.5vw']} color="white">
           <Text fontSize={['20px']} maxW={['100%']} margin="0 auto">
-            Please provide your discord Tag to the input field below. Please note that the discord ID needs to be
+            Please provide your discrod Tag to the input field below. Please note that the discord ID needs to be
             formatted like so: DiscordName#3242
           </Text>
         </Box>
