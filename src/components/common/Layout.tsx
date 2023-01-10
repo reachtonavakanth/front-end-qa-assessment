@@ -38,7 +38,6 @@ const Layout = ({
     closeAll();
     setMenuOpen(false);
     setActiveScene(scene);
-    window.GotoScene(scene);
   };
 
   useEffect(() => {
